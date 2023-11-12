@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "nombre": "Santisteban Alcántara, Mario",
+        "numero": "931913010",
+        "email": "mario.santisteban@tecsup.edu.pe"
+    },
+    {
+        "id": 1,
+        "nombre": "Jorge Castañeda",
+        "numero": "123-456-789",
+        "email": "jcastanedaa@tecsup.edu.pe"
+    },
+    {
+        "id": 2,
+        "nombre": "Jaime Farfan",
+        "numero": "987-654-321",
+        "email": "jfarfan@tecsup.edu.pe"
+    }
+]
